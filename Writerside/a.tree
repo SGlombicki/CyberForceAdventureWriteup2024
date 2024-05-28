@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="a"
+                 name="Adventure2024"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Securely-Provision.md">
+        <toc-element topic="Anomaily-1.md"/>
+        <toc-element topic="Anomaly-02-Passphrase-Probing.md"/>
+        <toc-element topic="Anomaly-74-76-Tears-of-the-Analyst-C-Class-Reversing-All-Parts.md"/>
+    </toc-element>
+    <toc-element topic="Protect-and-Defend.md">
+        <toc-element topic="Anomaly-21-25-TPS-Report-All-Parts.md"/>
+        <toc-element topic="Anomaly-26-28-Nice-Day-for-Phishing-All-Ticket.md"/>
+        <toc-element topic="Anomaly-30-Trivia-02.md"/>
+        <toc-element topic="Anomaly-31-Trivia-03.md"/>
+        <toc-element topic="Anomaly-32-Trivia-04.md"/>
+        <toc-element topic="Anomaly-33-Trivia-05.md"/>
+        <toc-element topic="Anomaly-34-Trivia-06.md"/>
+        <toc-element topic="Anomaly-35-Trivia-07.md"/>
+        <toc-element topic="Anomaly-36-Trivia-08.md"/>
+        <toc-element topic="Anomaly-37-Trivia-09.md"/>
+        <toc-element topic="Anomaly-38-Trivia-10.md"/>
+        <toc-element topic="Anomaly-43-Trivia-15.md"/>
+        <toc-element topic="Anomaly-44-Trivia-16.md"/>
+        <toc-element topic="Anomaly-45-Trivia-17.md"/>
+        <toc-element topic="Anomaly-46-Trivia-18.md"/>
+        <toc-element topic="Anomaly-47-Trivia-19.md"/>
+    </toc-element>
+    <toc-element topic="Analyze.md">
+        <toc-element topic="Anomaly-05-gURLs-Just-Want-to-Have-Fun-Part-01.md"/>
+        <toc-element topic="Anomaly-12-15-While-My-WAF-Gently-Weeps-All-Parts.md"/>
+        <toc-element topic="Anomaly-17-Ste-what-graphy-v2.md"/>
+        <toc-element topic="Anomaly-18-19-Another-Code-of-Many-Colors-All-Parts.md"/>
+    </toc-element>
+    <toc-element topic="Oversee-and-Govern.md">
+        <toc-element topic="Anomaly-29-Trivia-01.md"/>
+        <toc-element topic="Anomaly-16.md"/>
+    </toc-element>
+    <toc-element topic="Energy.md">
+        <toc-element topic="Anomaly-39-Trivia-11.md"/>
+        <toc-element topic="Anomaly-40-Trivia-12.md"/>
+        <toc-element topic="Anomaly-41-Trivia-13.md"/>
+        <toc-element topic="Anomaly-42-Trivia-14.md"/>
+        <toc-element topic="Anomaly-48-Trivia-20.md"/>
+    </toc-element>
+    <toc-element topic="Investigate.md">
+        <toc-element topic="Anomaly-49-Knock-Knock…Who’s-There.md"/>
+        <toc-element topic="Anomaly-50-Sloggin-through-these-logins.md"/>
+    </toc-element>
+    <toc-element topic="Operate-and-Maintain.md">
+        <toc-element topic="Anomaly-51-Img-Analysis.md"/>
+    </toc-element>
+</instance-profile>

@@ -1,0 +1,3 @@
+# Anomaly 18-19 - Another Code of Many Colors - All Parts
+
+Start typing here...
