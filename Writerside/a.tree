@@ -10,6 +10,7 @@
     <toc-element topic="Securely-Provision.md">
         <toc-element topic="Anomaily-1.md"/>
         <toc-element topic="Anomaly-02-Passphrase-Probing.md"/>
+        <toc-element topic="Anomaly-72-Reverse-Engineering-Decryption-Challenge.md"/>
         <toc-element topic="Anomaly-74-76-Tears-of-the-Analyst-C-Class-Reversing-All-Parts.md"/>
     </toc-element>
     <toc-element topic="Protect-and-Defend.md">
@@ -29,12 +30,18 @@
         <toc-element topic="Anomaly-45-Trivia-17.md"/>
         <toc-element topic="Anomaly-46-Trivia-18.md"/>
         <toc-element topic="Anomaly-47-Trivia-19.md"/>
+        <toc-element topic="Anomaly-57-59-Hidden-Code.md"/>
+        <toc-element topic="Anomaly-65-71-ICS-ATT-CK-Navigator-Challenge.md"/>
     </toc-element>
     <toc-element topic="Analyze.md">
         <toc-element topic="Anomaly-05-gURLs-Just-Want-to-Have-Fun-Part-01.md"/>
         <toc-element topic="Anomaly-12-15-While-My-WAF-Gently-Weeps-All-Parts.md"/>
         <toc-element topic="Anomaly-17-Ste-what-graphy-v2.md"/>
         <toc-element topic="Anomaly-18-19-Another-Code-of-Many-Colors-All-Parts.md"/>
+        <toc-element topic="Anomaly-60-Underrated-Phising-eXercise.md"/>
+        <toc-element topic="Anomaly-61-Don-t-Get-Glad-get-angry.md"/>
+        <toc-element topic="Anomaly-62-Ransomwhere.md"/>
+        <toc-element topic="Anomaly-63-Magic-The-Gathering.md"/>
     </toc-element>
     <toc-element topic="Oversee-and-Govern.md">
         <toc-element topic="Anomaly-29-Trivia-01.md"/>
@@ -48,8 +55,11 @@
         <toc-element topic="Anomaly-48-Trivia-20.md"/>
     </toc-element>
     <toc-element topic="Investigate.md">
+        <toc-element topic="Anomaly-20-Bit-of-Wing.md"/>
         <toc-element topic="Anomaly-49-Knock-Knock…Who’s-There.md"/>
         <toc-element topic="Anomaly-50-Sloggin-through-these-logins.md"/>
+        <toc-element topic="Anomaly-54-56-HonestUser.md"/>
+        <toc-element topic="Anomaly-64-Pwning-the-Stack.md"/>
     </toc-element>
     <toc-element topic="Operate-and-Maintain.md">
         <toc-element topic="Anomaly-51-Img-Analysis.md"/>

@@ -8,5 +8,13 @@
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
+    <footer>
+        <copyright>ics.red 2024</copyright>
+        <social type="blog" href="https://ics.red">Blog</social>
+        <social type="linkedin" href="https://linkedin.com/in/stephenglombicki">Linkedin</social>
+        <link href="https://github.com/sglombicki">Github</link>
+        <link href="https://ics.red/a">About Me</link>
+        <link href="https://ics.red">Blog</link>
+    </footer>
 
 </buildprofiles>
